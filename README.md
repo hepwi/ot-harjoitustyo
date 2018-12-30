@@ -4,4 +4,4 @@
 
 *Ohjelmistotekniikan kurssin ensimmäisen viikon ensimmäinen tunti*
 
-[TestiLinkki](http://oulu.fi)
+[TestiLinkki Oulu.fi](http://oulu.fi)
