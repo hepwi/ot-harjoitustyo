@@ -6,4 +6,6 @@
 
 [TestiLinkki Oulu.fi](http://oulu.fi)
 
-Paikallinen muutos
+
+GitHub muutos
+
